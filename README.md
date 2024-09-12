@@ -1,6 +1,6 @@
 # Tableau-Project
-Assignment 1: US Pollution Statistics
-Air pollutants are suspected to cause respiratory health issues. XYZ Ltd. is a global community that works to create awareness to reduce air pollution. The company collects and publishes air pollution data with the help of experts to analyze the data.
+**US Pollution Statistics
+**Air pollutants are suspected to cause respiratory health issues. XYZ Ltd. is a global community that works to create awareness to reduce air pollution. The company collects and publishes air pollution data with the help of experts to analyze the data.
 The health ministry of the US approached the community to seek help in developing new air pollution reduction strategies.
 Jasen, a data analyst at XYZ Ltd., needs to analyze and visualize the various columns of the data published in the reports. Help Jasen perform the data analysis by accomplishing the tasks. Note: All the charts need to have appropriate chart titles.
 Click here to download the datafile.
